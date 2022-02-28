@@ -1,2 +1,2 @@
 ## School Library Database
-[Link to the proposal](https://kaanozaltan.github.io/Project_document-Spring2022.pdf)
+[Link to the proposal](https://kaanozaltan.github.io/Group26.pdf)
